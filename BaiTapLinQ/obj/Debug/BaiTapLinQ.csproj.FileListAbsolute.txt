@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\BaiTapLinQ\BaiTapLinQ\bin\Debug\BaiTapLinQ.exe.config
+C:\Users\Admin\source\repos\BaiTapLinQ\BaiTapLinQ\bin\Debug\BaiTapLinQ.exe
+C:\Users\Admin\source\repos\BaiTapLinQ\BaiTapLinQ\bin\Debug\BaiTapLinQ.pdb
+C:\Users\Admin\source\repos\BaiTapLinQ\BaiTapLinQ\obj\Debug\BaiTapLinQ.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BaiTapLinQ\BaiTapLinQ\obj\Debug\BaiTapLinQ.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BaiTapLinQ\BaiTapLinQ\obj\Debug\BaiTapLinQ.exe
+C:\Users\Admin\source\repos\BaiTapLinQ\BaiTapLinQ\obj\Debug\BaiTapLinQ.pdb
