@@ -10,6 +10,8 @@ namespace BaiTapLinQ
     {
         static void Main(string[] args)
         {
+
+            //commitlan3
             List<PhongBan> phongban_224 = new List<PhongBan>
             {
                 new PhongBan(1, "Phòng thiết kế"),
